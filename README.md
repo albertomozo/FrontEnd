@@ -1,14 +1,13 @@
 # FrontEnd
 Material pàra el curso IFCD65 frontend.
-Se van a trtar los siguientes temas:
+Se van a tratar los siguientes temas:
 * Introducción
 * HTML y CSS
 * Responsive
 * Bootstrap
 * Sass
 * Javascript
+* VUE.JS
 Vamos a generar diferentes carpetas en repositorios para generar un proyecto común
 [PROYECTO](PROYECTO/index.html)
-Documentacion en google drive 
-https://docs.google.com/presentation/d/1G_Q5Dof6Pg9Uq3h5DzDRcwVTlhMU1Kz_MavNwVgAgyw/edit?usp=sharing
 
