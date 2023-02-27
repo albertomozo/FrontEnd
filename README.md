@@ -8,6 +8,7 @@ Se van a tratar los siguientes temas:
 * Sass
 * Javascript
 * VUE.JS
+
 Vamos a generar diferentes carpetas en repositorios para generar un proyecto común
 [PROYECTO](PROYECTO/index.html)
 
